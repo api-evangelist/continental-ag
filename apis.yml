@@ -1,0 +1,24 @@
+aid: continental-ag
+url: https://raw.githubusercontent.com/api-evangelist/continental-ag/refs/heads/main/apis.yml
+name: Continental AG
+x-type: company
+description: >-
+  Continental AG is a German multinational automotive supplier and tire manufacturer headquartered in Hanover. As a global Tier 1 automotive supplier, Continental designs and manufactures tires, automotive electronics, brake systems, powertrain components, ADAS, and interior solutions for vehicle manufacturers worldwide.
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Automotive
+  - Tires
+  - Tier 1 Supplier
+  - ADAS
+  - Brake Systems
+  - Electronics
+created: '2026-05-06'
+modified: '2026-05-06'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.continental.com/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
