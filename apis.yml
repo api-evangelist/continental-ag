@@ -17,6 +17,10 @@ modified: '2026-05-06'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/continental-ag-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/continental-ag-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/continental
   - type: LinkedIn
