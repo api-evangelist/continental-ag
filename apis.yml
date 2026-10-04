@@ -1,6 +1,6 @@
 aid: continental-ag
 url: https://raw.githubusercontent.com/api-evangelist/continental-ag/refs/heads/main/apis.yml
-name: Continental AG
+name: Continental
 kind: company
 description: >-
   Continental AG is a German multinational automotive supplier and tire manufacturer headquartered in Hanover. As a global Tier 1 automotive supplier, Continental designs and manufactures tires, automotive electronics, brake systems, powertrain components, ADAS, and interior solutions for vehicle manufacturers worldwide.
@@ -59,3 +59,4 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-legal-name: Continental AG
