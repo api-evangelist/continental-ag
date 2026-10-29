@@ -1,4 +1,4 @@
-# Continental AG (continental-ag)
+# Continental
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,44 +66,98 @@
 
 Continental AG is a German multinational automotive supplier and tire manufacturer headquartered in Hanover. As a global Tier 1 automotive supplier, Continental designs and manufactures tires, automotive electronics, brake systems, powertrain components, ADAS, and interior solutions for vehicle manufacturers worldwide.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/continental-ag/refs/heads/main/apis.yml)
+**Areas:** Automotive · Tires · Tier 1 Supplier · ADAS · Brake Systems · Electronics
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=continental-ag-api-evangelist&utm_content=repo)
+## Continental on APIs.io
 
-## Type
+Everything profiled for Continental is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/continental-ag/](https://apis.io/providers/continental-ag/)** — or go straight to one of the APIs or properties below.
 
-- **x-type:** company
+### Published properties
 
-## Tags:
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
- - Automotive, Tires, Tier 1 Supplier, ADAS, Brake Systems, Electronics
+#### Security (2)
 
-## Timestamps
+Authentication, trust centre, and vulnerability disclosure.
 
-- **Created:** 2026-05-06
-- **Modified:** 2026-05-06
+- [Continental Ag Domain Security](https://apis.io/security/continental-ag/continental-ag-domain-security/)
+- [Continental Ag Vulnerability Disclosure](https://apis.io/security/continental-ag/continental-ag-vulnerability-disclosure/)
 
-## APIs
+#### Plans and pricing (1)
 
-No public APIs have been documented. Continental AG is a Tier 1 automotive supplier whose external interfaces are EDI, supplier portals, and customer-specific OEM integration channels rather than public REST APIs.
+Published plans, tiers and prices.
 
-## Common Properties
+- [Continental Ag Plans Pricing](https://apis.io/plans/continental-ag/continental-ag-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Continental Ag Rate Limits](https://apis.io/rate-limits/continental-ag/continental-ag-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Continental Ag Finops](https://apis.io/finops/continental-ag/continental-ag-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.continental.com/)
-- [Plans](plans/continental-ag-plans-pricing.yml) — API Commons Plans 0.1 (placeholder; no public pricing)
-- [RateLimits](rate-limits/continental-ag-rate-limits.yml) — API Commons Rate Limits 0.1 (placeholder; no public limits)
-- [FinOps](finops/continental-ag-finops.yml) — FOCUS-aligned FinOps Framework 1.0 (placeholder; no public billing surface)
+- [Blog](https://www.continental.com/en/stories/)
+- [GitHub](https://github.com/continental)
 
-## Artifacts
+## API Evangelist rating
 
-| Artifact | Path | Notes |
-|---|---|---|
-| Plans | `plans/continental-ag-plans-pricing.yml` | Contact-Sales placeholder; commercial terms negotiated per contract. |
-| Rate Limits | `rate-limits/continental-ag-rate-limits.yml` | Contract-scoped placeholder; no public throttling thresholds. |
-| FinOps | `finops/continental-ag-finops.yml` | FOCUS-aligned placeholder; invoices issued under contract terms. |
+**Kin Score 6.9** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-## Maintainers
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 5.3 |
 
-**FN:** Kin Lane
+**Agent readiness 0.6** — human-only
 
-**Email:** kin@apievangelist.com
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 11.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/continental-ag/](https://apis.io/providers/continental-ag/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Continental: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/continental-ag/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
